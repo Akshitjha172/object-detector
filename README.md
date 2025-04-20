@@ -10,7 +10,7 @@ This is a Flutter-based mobile application that demonstrates **real-time object 
 
 | Main Screen | Detection Screen |
 |-------------|------------------|
-| ![Main Screen](screenshots/9309610c-cb0b-4ce0-a898-6df5324f8347.jpg) | ![Detection Screen](screenshots/5d9805c1-d1cc-4530-a212-42ce99cb979a.jpg) |
+| ![Main Screen](D:\Downloads\WhatsApp Image 2025-04-21 at 01.09.07_77d271ff.jpg) | ![Detection Screen](D:\Downloads\WhatsApp Image 2025-04-21 at 01.09.07_98d1b12c.jpg) |
 
 ---
 
