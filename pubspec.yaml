@@ -1,0 +1,23 @@
+name: object_detector
+description: A Flutter app for real-time object detection using ML Kit.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # For camera access
+  camera: ^0.11.1 
+  permission_handler: ^11.0.0
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
